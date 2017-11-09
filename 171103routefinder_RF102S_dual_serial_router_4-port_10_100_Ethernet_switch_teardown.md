@@ -161,3 +161,6 @@ The power connector could also be worthy of salvaging, to use along with the 5 V
 
 ![Switch without serial](https://user-images.githubusercontent.com/26856618/32401129-6daf1a6c-c0c6-11e7-8834-21c15a6b8649.png)
 
+---
+
+**[Comments?](https://www.reddit.com/r/ElectronicsSalvage/comments/7ao0za/salvaging_crystals_and_serial_ports_from_an_old/)**
