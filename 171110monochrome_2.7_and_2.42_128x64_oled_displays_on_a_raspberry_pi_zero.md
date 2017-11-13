@@ -178,3 +178,7 @@ python jetset_willy.py --display ssd1306 --interface spi
 but a practical use for these displays will have to wait for another time. This concludes this experiment, we have seen how to successfully setup two OLED display modules, a 2.7" SSD1325-based board and a 2.42" SSD1305-based board, via SPI, to a Raspberry Pi Zero.
 
 ![sys_info and starfield](https://user-images.githubusercontent.com/26856618/32685337-e7e4bcc4-c643-11e7-96e0-5e8fbf961a6b.png)
+
+---
+
+**[Comments?](https://www.reddit.com/r/raspberry_pi/comments/7ckils/building_a_small_custom_raspberry_pi_zero_laptop/)**
