@@ -344,3 +344,6 @@ This concludes this blog post describing the construction of this custom Raspber
 
 ![Final product, starfield screensaver](https://user-images.githubusercontent.com/26856618/32706284-2ef5455a-c7d1-11e7-9ca9-92d1b57ab6fa.png)
 
+---
+
+**[Comments?](https://www.reddit.com/r/raspberry_pi/comments/7ckils/building_a_small_custom_raspberry_pi_zero_laptop/)**
