@@ -338,6 +338,17 @@ This gives us a peak into the console:
 
 The next step would be to finish writing the oledterm program, so that it either sets the virtual console to 9x28, or otherwise efficiently bridges the virtual console to the OLED module, allowing its use as a fully-fledged terminal console.
 
+**Updated November 15th, 2017**: On Linux, the `stty rows` and `stty cols` commands can be used to limit the virtual console to a smaller text resolution than the maximum size supported by the current font size and graphical resolution. With this in mind, mirroring the console to the OLED module is straightforward, allowing for a fully interactive shell and terminal, no need to reimplement either:
+
+![uname with oledterm](https://user-images.githubusercontent.com/26856618/32824815-52cfa9a8-c997-11e7-9fc2-4309655835d2.png)
+
+This technique even allows running full-screen programs such as vi:
+
+![vim with oledterm](https://user-images.githubusercontent.com/26856618/32824814-52bb1466-c997-11e7-8b0c-00db29a27c76.png)
+
+Updated code is available at: https://github.com/satoshinm/oledterm
+
+
 ## The end
 
 This concludes this blog post describing the construction of this custom Raspberry Pi Zero laptop, at least for now. There is a lot of work to be done to make it into a generally usable computing device, but its a start, you have to start somewhere. To end with, here is one last picture of the final laptop:
