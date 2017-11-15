@@ -346,7 +346,7 @@ This technique even allows running full-screen programs such as vi:
 
 ![vim with oledterm](https://user-images.githubusercontent.com/26856618/32824814-52bb1466-c997-11e7-8b0c-00db29a27c76.png)
 
-Updated code is available at: https://github.com/satoshinm/oledterm
+Updated code is available at: [https://github.com/satoshinm/oledterm](https://github.com/satoshinm/oledterm)
 
 
 ## The end
