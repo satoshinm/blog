@@ -357,4 +357,4 @@ This concludes this blog post describing the construction of this custom Raspber
 
 ---
 
-**[Comments?](https://www.reddit.com/r/raspberry_pi/comments/7ckils/building_a_small_custom_raspberry_pi_zero_laptop/)**
+**[Comments](https://www.reddit.com/r/raspberry_pi/comments/7ckils/building_a_small_custom_raspberry_pi_zero_laptop/)[?](https://news.ycombinator.com/item?id=15691699)**
