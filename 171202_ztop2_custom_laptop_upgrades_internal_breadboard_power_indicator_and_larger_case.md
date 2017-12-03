@@ -163,3 +163,7 @@ Here we go:
 This new upgraded laptop looks about the same as in *[Building a small custom Raspberry Pi Zero laptop in a cardboard box](https://satoshinm.github.io/blog/171112_building_a_small_custom_raspberry_pi_zero_laptop_in_a_cardboard_box.html)*, but has much more breathing room internally. Especially with the internal breadboard, easing future prototyping experiments. And when the laptop is closed, you can't even tell it is more than a box:
 
 ![Closed box](https://user-images.githubusercontent.com/26856618/33521760-17d5bcc8-d790-11e7-882a-5ab41e8c12f5.png)
+
+---
+
+**[Comments?](https://www.reddit.com/r/raspberry_pi/comments/7h79lb/custom_laptop_upgrades_internal_breadboard_power/)**
