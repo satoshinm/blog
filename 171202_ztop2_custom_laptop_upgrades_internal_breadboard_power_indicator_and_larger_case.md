@@ -143,7 +143,7 @@ Another downfall is the port and Pi are raised up from the bottom of the case, b
 
 Back view of the DVI port and Ethernet port:
 
-![Video and Ethernet rear](ps://user-images.githubusercontent.com/26856618/33521746-b176e4f2-d78f-11e7-8723-dc36f5b3c310.png)
+![Video and Ethernet rear](https://user-images.githubusercontent.com/26856618/33521746-b176e4f2-d78f-11e7-8723-dc36f5b3c310.png)
 
 
 ### Battery
