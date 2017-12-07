@@ -197,3 +197,8 @@ Now it can be flipped to either force a shutdown while the system is on (not rec
 For now I used a single-pole single-throw (SPST) switch, but a future upgrade could be to use a double-throw (SPDT) switch to select between the built-in battery in this laptop, or an external USB charging port. To this end I purchased a few micro USB breakout boards: [5Pcs CJMCU Micro USB Board Power Adapter 5V Breakout Switch Interface Module For Arduino](https://www.aliexpress.com/item/5Pcs-CJMCU-Micro-USB-Board-Power-Adapter-5V-Breakout-Switch-Interface-Module-For-Arduino/32838024725.html) for $0.97/5, when they arrive this laptop could grow a micro USB charging port.
 
 That's all for now, there's a lot more that could be done to improve power management in this Raspberry Pi Zero-based custom laptop, but this preliminary effort goes to show the complexity and intricacies of dealing with power in a mobile computing system.
+
+
+---
+
+**[Comments?](https://www.reddit.com/r/raspberry_pi/comments/7i4fim/custom_laptop_power_management_adding_an_external/)**
