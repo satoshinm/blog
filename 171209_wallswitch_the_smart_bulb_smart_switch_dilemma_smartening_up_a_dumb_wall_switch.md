@@ -193,3 +193,7 @@ The lamp can now be equally controlled programmatically by the app and by the ph
 | ----- | -------------- | ------------- |
 | Lamp on | Turn off     | Flip switch or use app |
 | Lamp off | Turn on     | Flip switch or use app |
+
+---
+
+**[Comments](https://www.reddit.com/r/esp8266/comments/7iqx0r/xpost_rhomeautomation_the_smart_bulb_smart_switch/?st=jb039502&sh=3d32eec5)[?](https://www.reddit.com/r/homeautomation/comments/7iqv12/the_smart_bulb_smart_switch_dilemma_smartening_up/?st=jb02utq6&sh=f68a2577)**
