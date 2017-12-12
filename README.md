@@ -1,5 +1,6 @@
 # blog
 
+* [2017/12/12 STM32 Blue Pill ARM development board first look: bare metal programming](171212_stm32_blue_pill_arm_development_board_first_look_bare_metal_programming.html)
 * [2017/12/09 The smart bulb / smart switch dilemma: smartening up a dumb wall switch](171209_wallswitch_the_smart_bulb_smart_switch_dilemma_smartening_up_a_dumb_wall_switch.html)
 * [2017/12/06 Custom laptop power management: external activity, power on button, graceful power off, hard power switch](171206_ztop2a_custom_laptop_power_management_external_activity_power_on_button_graceful_power_off_hard_power_switch.html)
 * [2017/12/02 Custom laptop upgrades: internal breadboard, power indicator, and larger case](171202_ztop2_custom_laptop_upgrades_internal_breadboard_power_indicator_and_larger_case.html)
