@@ -1708,3 +1708,7 @@ Bare metal development on STM32F103C8T6 blue pill:
 * The LED blinks!
 
 ![USB-to-serial to STM32 blue pill blinking](https://user-images.githubusercontent.com/26856618/33874970-833634c4-ded5-11e7-9a32-c1dd373dc628.png)
+
+---
+
+**[Comments?](https://www.reddit.com/r/stm32f4/comments/7j9ilk/my_unfiltered_notes_on_getting_started_with_a/)**
