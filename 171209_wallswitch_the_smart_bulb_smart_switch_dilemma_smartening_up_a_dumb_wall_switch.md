@@ -2,6 +2,9 @@
 
 by snm, November 9th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 How to make a "dumb" wall switch into a smart switch. We all have switches on our walls, such as these:
 
 ![Wall switch](https://user-images.githubusercontent.com/26856618/33756395-304aaade-dbaa-11e7-9430-339c9c3bf21d.jpg)

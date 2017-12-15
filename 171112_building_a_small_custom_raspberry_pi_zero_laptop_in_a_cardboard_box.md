@@ -2,6 +2,9 @@
 
 by snm, November 12th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 ![uname -a](https://user-images.githubusercontent.com/26856618/32708228-9dc3b38e-c7dd-11e7-9557-69adf2e806e2.png)
 
 Making the Pi Zero portable. Starting off with:

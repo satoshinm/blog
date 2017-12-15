@@ -2,6 +2,9 @@
 
 by snm, November 3rd, 2017
 
+* auto-gen TOC:
+{:toc}
+
 ![Front panel](https://user-images.githubusercontent.com/26856618/32399322-31b3cb8e-c0b2-11e7-8471-568b9de39300.png)
 
 The MultiTech Systems "Routefinder RF102" is a dual serial port router with a built-in 4-port 10/100 Ethernet switch. Slow by today's standards (with [Gigabit Ethernet](https://en.wikipedia.org/wiki/Gigabit_Ethernet) or faster), this device could be useful in 2005 when it was manufactured. The two serial ports are for connecting to an [ISDN](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network) or [56k modem](https://en.wikipedia.org/wiki/Modem#Using_digital_lines_and_PCM_.28V.90.2F92.29) uplink, both now obsolete technologies. So let's crack it open:

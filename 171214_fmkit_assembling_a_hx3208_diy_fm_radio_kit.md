@@ -2,6 +2,9 @@
 
 by snm, December 14th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 Bought a DIY FM radio kit on Aliexpress for $2.51: [FM Micro SMD Radio DIY Kits FM Frequency Modulation Radio Electronic Production Training Suite](https://www.aliexpress.com/item/FM-Micro-SMD-Radio-DIY-Kits-FM-Frequency-Modulation-Radio-Electronic-Production-Training-Suite/32752016113.html). Labeled in Chinese and with the model number HX3208, this is an inexpensive yet fun kit to make, herein a chronological my build progress from start to finish.
 
 ## Unboxing

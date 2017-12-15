@@ -2,6 +2,9 @@
 
 by snm, December 6th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 ## Activity LED
 
 In the [previous update](https://satoshinm.github.io/blog/171202_ztop2_custom_laptop_upgrades_internal_breadboard_power_indicator_and_larger_case.html) to my [custom Raspberry Pi Zero-based cardboard laptop](https://satoshinm.github.io/blog/171112_building_a_small_custom_raspberry_pi_zero_laptop_in_a_cardboard_box.html), the onboard surface-mount activity LED on the Pi Zero, along with the external LED I soldered on top of it, accidentally lifted off the board. This is an opportunity to fix it. My plan was to use stranded wire for strain relief, not solid core as in the first laptop. And a red LED for activity, to contrast with the green LED for power. Here's what we have to work with:

@@ -2,6 +2,9 @@
 
 by snm, November 11th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 [Adafruit VL53L0X Time of Flight Distance Sensor - ~30 to 1000mm](https://www.adafruit.com/product/3317)
 
 Wire up to a Raspberry Pi Zero: 3V3, GND, SDA, and SCL.

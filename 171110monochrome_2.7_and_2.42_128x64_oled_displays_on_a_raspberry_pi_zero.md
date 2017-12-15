@@ -2,6 +2,9 @@
 
 by snm, November 10th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 [OLED](https://en.wikipedia.org/wiki/OLED) (organic light-emitting diode) displays are renowned for their lack of backlight requirement, allowing for deeper blacks and higher contrast. Used from watches to television sets, but to experiment with using OLEDs, I purchased a few monochrome 128x64 OLED display modules from Adafruit:
 
 * [Monochrome 2.7" 128x64 OLED Graphic Display Module Kit](https://www.adafruit.com/product/2674)

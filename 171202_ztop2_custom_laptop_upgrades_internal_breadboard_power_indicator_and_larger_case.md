@@ -2,6 +2,9 @@
 
 by snm, December 2nd, 2017
 
+* auto-gen TOC:
+{:toc}
+
 Have you ever wanted to make your own laptop? I did, and this was my first attempt: *[Building a small custom Raspberry Pi Zero laptop in a cardboard box](https://satoshinm.github.io/blog/171112_building_a_small_custom_raspberry_pi_zero_laptop_in_a_cardboard_box.html)*. This is a continuation of that article, making several minor improvements including moving it to a larger case, adding a breadboard for prototyping, and an improved power indicator LED on the front panel from the USB hub. Codename: ztop2, for Raspberry Pi **Z**ero lap**top**, generation **2**.
 
 ## Breadboard
