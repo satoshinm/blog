@@ -218,3 +218,7 @@ There is one extra screw I haven't found the use for:
 This completes the circuit construction. To turn off the radio, turn the potentiometer far to the left, to turn it on or louder turn it to the right. The radio is surprisingly loud using fresh batteries, I had to turn it almost all the way down to not go deaf. Press "SCAN" to change the channel or RESET. FM channels come in clearly when the radio is in my pocket and the headphones are in my ears. 
 
 Overall I'm quite satisfied with this kit. For less than $3 you can practice surface-mount soldering and get a decent working portable FM radio out of it. I'd recommend it to anyone interested in a moderate circuit building challenge or receiving FM radio.
+
+---
+
+**[Comments?](https://www.reddit.com/r/amateurradio/comments/7jxv3l/just_assembled_this_inexpensive_3_from_aliexpress/)**
