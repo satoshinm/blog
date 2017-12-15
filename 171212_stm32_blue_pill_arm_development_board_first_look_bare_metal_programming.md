@@ -1523,6 +1523,8 @@ Change it to GPIO_Output. Project > Generate Code and select a Makefile project.
 BINPATH = gcc-arm-none-eabi-5_4-2016q3/bin/
 ```
 
+**Updated 2017/12/14, protip**: Using [Homebrew](https://brew.sh) you can more simply install embedded GCC ARM with this command: `brew cask install gcc-arm-embedded`
+
 Rerun `make`, it begins to compile but fails to link:
 
 ```
