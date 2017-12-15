@@ -2,6 +2,9 @@
 
 by snm, December 12th, 2017
 
+* auto-gen TOC:
+{:toc}
+
 Inspired by the [The Amazing $1 Microcontroller - Jay Carlson](https://jaycarlson.net/microcontrollers/), I purchased a STM32 microcontroller. Specifically, the [STM32F103C8T6 ARM STM32 Minimum System Development Board Module Forarduino](https://www.aliexpress.com/item/Free-Shipping-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/32525208361.html) board from Aliexpress for $1.85 (not bad for the full development board). 
 
 ![STM32 development board and headers](https://user-images.githubusercontent.com/26856618/33531361-173def5e-d841-11e7-8e86-9f3f65a89f52.png)
