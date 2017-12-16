@@ -1,5 +1,6 @@
 # blog
 
+* [2017/12/16 Custom laptop charging: adding a USB charging port and module](171216_ztop2c_custom_laptop_charging_adding_a_usb_charging_port_and_module.html)
 * [2017/12/14 Assembling a HX3208 DIY FM radio kit](171214_fmkit_assembling_a_hx3208_diy_fm_radio_kit.html)
 * [2017/12/12 STM32 Blue Pill ARM development board first look: bare metal programming](171212_stm32_blue_pill_arm_development_board_first_look_bare_metal_programming.html)
 * [2017/12/09 The smart bulb / smart switch dilemma: smartening up a dumb wall switch](171209_wallswitch_the_smart_bulb_smart_switch_dilemma_smartening_up_a_dumb_wall_switch.html)
