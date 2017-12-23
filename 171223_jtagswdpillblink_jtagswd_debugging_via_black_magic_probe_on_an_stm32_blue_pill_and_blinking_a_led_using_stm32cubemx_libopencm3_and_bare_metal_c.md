@@ -2,6 +2,9 @@
 
 by snm, December 23rd, 2017
 
+* auto-gen TOC:
+{:toc}
+
 Follow-up to *[STM32 Blue Pill ARM development board first look: from Arduino to bare metal programming](https://satoshinm.github.io/blog/171212_stm32_blue_pill_arm_development_board_first_look_bare_metal_programming.html)*, where I got initially setup with an STM32F103C8T6 board aka "blue pill", an inexpensive $1.85 ARM Cortex-M3 development board. Blinked an LED as a test, but what can we practically do with it?
 
 Orded two more for cheaper: $1.70/ea: [STM32F103C8T6 ARM STM32 Minimum System Development Board Module](https://www.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module/32656040083.html). My first order was for $1.85 from [Free Shipping STM32F103C8T6 ARM STM32 Minimum System Development Board Module Forarduino](https://www.aliexpress.com/item/Free-Shipping-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/32525208361.html). The two $1.70 are nearly identical, but have a slightly different silkscreen and reset button:
@@ -495,6 +498,27 @@ Finally, it works! A successful blink:
 ![libopencm3 blinking blue pill](https://user-images.githubusercontent.com/26856618/34317330-2e0485f2-e761-11e7-9bad-5e27cae52735.png)
 
 And the binary is only 684 bytes, compared to STM32CubeMX's 3.4 KB..not bad, I'm liking libopencm3. Lightweight.
+
+### Convenience shell scripts
+
+To quickly and conveniently use the Black Magic Probe, I put together a couple simple shell scripts.
+The first, `bmp_debug.sh`, runs ARM GCC with the Black Magic Probe as a remote target (note you may need to
+edit the device node path for your system) and runs a JTAG and SWD scan, then drops you into gdb:
+
+```sh
+#!/bin/sh -x
+arm-none-eabi-gdb -ex "target extended-remote /dev/cu.usbmodemE3C896E1" -ex "monitor jtag_scan" -ex "monitor swdp_scan"
+```
+
+The second, `bmp_flashstm32.sh`, runs [stm32loader.py](https://github.com/jsnyder/stm32loader) (edit to add the
+full path on your system if necessary, also check the device node) to erase teh flash,  write a `.bin` file,
+and verify the flash; this is used for uploading new code to the target blue pill:
+
+```sh
+#!/bin/sh -x
+stm32loader.py -p /dev/cu.usbmodemE3C896E3 -e -w -v $*
+```
+
 
 ### pill_blink
 
