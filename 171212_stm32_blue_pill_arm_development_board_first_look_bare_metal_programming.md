@@ -1574,7 +1574,7 @@ collect2: error: ld returned 1 exit status
 make: *** [build/myblink.elf] Error 1
 ```
 
-The functions are defined twice... but in the same place? Found a report on the ST forums: [CubeMX bug report: Error in generating Makefile](https://community.st.com/thread/44891-cubemx-bug-report-error-in-generating-makefile), Kacper found a workaround:
+The functions are defined twice... but in the same place? Found a report on the ST forums: [CubeMX bug report: Error in generating Makefile](https://community.st.com/thread/44891-cubemx-bug-report-error-in-generating-makefile) ([mirror](http://archive.is/kGHXF) in case the forums are down), Kacper found a workaround:
 
 > Kacper Czochara Nov 7, 2017 8:34 AM (in response to Kacper Czochara)
 
