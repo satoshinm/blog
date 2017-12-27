@@ -1,5 +1,6 @@
 # blog
 
+* [2017/12/27 Pill Duck: Scriptable USB HID device using an STM32 blue pill, from mouse jigglers to rubber duckies](171227_stm32hid_pill_duck_scriptable_usb_hid_device_using_an_stm32_blue_pill_from_mouse_jigglers_to_rubber_duckies.html)
 * [2017/12/23 Triple USB-to-serial adapter using STM32 blue pill](171223_stm32serial_triple_usb-to-serial_adapter_using_stm32_blue_pill.md)
 * [2017/12/23 JTAG/SWD debugging via Black Magic Probe on an STM32 blue pill and blinking a LED using STM32CubeMX, libopencm3, and bare metal C](171223_jtagswdpillblink_jtagswd_debugging_via_black_magic_probe_on_an_stm32_blue_pill_and_blinking_a_led_using_stm32cubemx_libopencm3_and_bare_metal_c.html)
 * [2017/12/17 Espressif IDF IoT Development Framework on the WEMOS LOLIN32 ESP32 to drive an SSD1305 OLED display over SPI without Arduino](171217_esp32idf_espressif_idf_iot_development_framework_on_the_wemos_lolin32_esp32_to_drive_an_ssd1305_oled_display_over_spi_without_arduino.html)
