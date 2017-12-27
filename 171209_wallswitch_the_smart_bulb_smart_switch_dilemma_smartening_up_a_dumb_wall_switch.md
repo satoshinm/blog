@@ -1,6 +1,6 @@
 # The smart bulb / smart switch dilemma: smartening up a dumb wall switch
 
-by snm, November 9th, 2017
+by snm, December 9th, 2017
 
 * auto-gen TOC:
 {:toc}
