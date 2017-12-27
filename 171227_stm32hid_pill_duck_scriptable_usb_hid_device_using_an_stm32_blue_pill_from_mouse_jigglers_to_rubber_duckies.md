@@ -887,7 +887,7 @@ void add_keyboard_spammer(int scancode)
 
 but the real power is in programmability, so we'll need to find a way to allow the user to change these payload packets at runtime. Fortunately, there is precedent in the USB Rubber Ducky: Ducky Script
 
-## Ducky Script
+### Ducky Script
 [Ducky Script](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) is a simple language for controlling the Rubber Ducky. It is compiled to binary using [duckencoder](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Downloads), to an `inject.bin` file which is read by the microcontroller and executed. An example hello.duckyscript:
 
 ```
@@ -1172,7 +1172,7 @@ flash and plug in the USB, and it works! Types "Hello, world!" as expect. No del
 
 But modifying our firmware source code and recompiling and reflashing isn't too practical, some way to let the user program the payload without recompiling and reflashing is needed. What can we do?
 
-## Storage of payload on flash
+### Storage of payload on flash
 
 The USB Rubber Ducky uses a [Secure Digital](https://en.wikipedia.org/wiki/Secure_Digital) card, here's a picture of it [from Hartley Brody](https://blog.hartleybrody.com/rubber-ducky-guide/), including the microSD card and microSD-to-USB adapter:
 
