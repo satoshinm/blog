@@ -1585,3 +1585,7 @@ The payload loops forever, but it should have an option to halt after executing 
 Would be nice to add a replay button (using GPIO), and enhance the web-based JavaScript HID report tool to make it more useful for end users. And it would be kinda cool to have a gamepad/joystick HID as another device, making this the ultimate composite input device, but not essential.
 
 As you can see there is a lot of work remaining to be done. For now, posted what I have so far on [https://github.com/satoshinm/pill_duck](https://github.com/satoshinm/pill_duck). Feedback and pull requests welcome, this is my first "real" blue pill project so I appreciate any suggestions and help.
+
+---
+
+**[Comments?](https://www.reddit.com/r/stm32f4/comments/7mi72o/pill_duck_scriptable_usb_hid_device_using_an/)**
