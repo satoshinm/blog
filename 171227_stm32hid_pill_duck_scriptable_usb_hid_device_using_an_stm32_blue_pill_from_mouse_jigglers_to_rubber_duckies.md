@@ -93,7 +93,7 @@ static const struct usb_device_descriptor dev = {
 Add another interface, based on pill_serial's USART3. Leave the HID mouse at interface 0, add UART comm at 1 and data at 2. Most is straightforward to merge, but the USB_DT_CONFIGURATION descriptor has bmAttributes = 0xC0 in the HID demo, versus bmAttributes = 0x80 in the serial demo. [Beyond Logic USB in a Nutshell](http://www.beyondlogic.org/usbnutshell/usb5.shtml) explains the bitmap attributes. D7 reserved is set to 1 in both values, but the HID demo sets D6 to 1 meaning self-powered, whereas the serial device did not. Left it at 0xC0. Add all the CDC ACM code for the UART, then the two other interfaces:
 
 ```c
-const struct usb_interface ifaces[] = {{
+const struct usb_interface ifaces[] = { {
     .num_altsetting = 1,
     .altsetting = &hid_iface,
 }, {
@@ -103,7 +103,7 @@ const struct usb_interface ifaces[] = {{
 }, {
     .num_altsetting = 1,
     .altsetting = uart_data_iface,
-}};
+} };
 ```
 
 rebuild and flash and plug into USB. After a few seconds the HID device appears and so does the virtual serial port, as `/dev/tty.usbmodemDEM2` (truncated part of the serial number iSerialNumber = 3, corresponding to usb_strings 3rd element "DEMO"):
