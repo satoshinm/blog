@@ -84,3 +84,7 @@ as seen in the [videotape format war](https://en.wikipedia.org/wiki/Videotape_fo
 > Betamax is, in theory, a superior recording format over VHS due to resolution (250 lines vs. 240 lines), slightly superior sound, and a more stable image; Betamax recorders were also of higher quality construction. But these differences were negligible to consumers, and thus did not justify either the extra cost of a Betamax VCR (which was often significantly more expensive than a VHS equivalent) or Betamax's shorter recording time.
 
 Nonetheless, VHS succeeded, but it too succumbed and has largely been relegated to the dustbins of history, just like this anachronistic tape rewinder. Engineered for extreme low cost, at least I got a line transformer out of it.
+
+---
+
+**[Comments?](https://www.reddit.com/r/VintageElectronics/comments/7oh24z/a_blast_from_the_past_kinyo_1way_vhs_rewinder/)**
