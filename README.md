@@ -1,5 +1,6 @@
 # blog
 
+* [2018/01/05 Building an Amazing $10 Oscilloscope with an STM32 blue pill, LCD touchscreen, and STM32-O-Scope software](180105_stm32scope_building_an_amazing_10_oscilloscope_with_an_stm32_blue_pill_lcd_touchscreen_and_stm32-o-scope_software.html)
 * [2017/12/27 Pill Duck: Scriptable USB HID device using an STM32 blue pill, from mouse jigglers to rubber duckies](171227_stm32hid_pill_duck_scriptable_usb_hid_device_using_an_stm32_blue_pill_from_mouse_jigglers_to_rubber_duckies.html)
 * [2017/12/23 Triple USB-to-serial adapter using STM32 blue pill](171223_stm32serial_triple_usb-to-serial_adapter_using_stm32_blue_pill.md)
 * [2017/12/23 JTAG/SWD debugging via Black Magic Probe on an STM32 blue pill and blinking a LED using STM32CubeMX, libopencm3, and bare metal C](171223_jtagswdpillblink_jtagswd_debugging_via_black_magic_probe_on_an_stm32_blue_pill_and_blinking_a_led_using_stm32cubemx_libopencm3_and_bare_metal_c.html)
