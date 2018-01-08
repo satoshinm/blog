@@ -177,7 +177,7 @@ No such luck. This chip may be something else than EEPROM, I may have damaged it
 
 ![80011A to Bus Pirate](https://user-images.githubusercontent.com/26856618/34656787-a474fa36-f3d3-11e7-8d91-6a14ac23e8c6.png)
 
-## ANPI306-H power board
+### ANPI306-H power board
 
 Moving onto the next board, the grimiest of them all. Made some effort to clean it up, but a lot of dust stuck to this board and was covered in oil dripping from the lenses, and its the board with the chunkiest components making it difficult to clean. Almost considered discarding it, but the parts will be easier to clean after removal from the board. Brace yourself, here is this dirty PCB:
 
