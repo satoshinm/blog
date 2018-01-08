@@ -1,5 +1,6 @@
 # blog
 
+* [2018/01/07 Pioneer SD-P453S Rear-Projection (RPTV) teardown: inside an 80s vintage big screen TV](180107_rptv_pioneer_sd_p453s_rear_projection_rptv_teardown_inside_an_80s_vintage_big_screen_TV.html)
 * [2018/01/06 Constructing and experimenting with the STM32-O-Scope](180106_stm32scope2_constructing_and_experimenting_with_the_stm32_o_scope.html)
 * [2018/01/05 A blast from the past: Kinyo 1-way VHS Rewinder UV-428 teardown](180105_vhsrewind_a_blast_from_the_past_kinyo_1_way_vhs_rewinder_uv_428_teardown.html)
 * [2018/01/05 Building an Amazing $10 Oscilloscope with an STM32 blue pill, LCD touchscreen, and STM32-O-Scope software](180105_stm32scope_building_an_amazing_10_oscilloscope_with_an_stm32_blue_pill_lcd_touchscreen_and_stm32-o-scope_software.html)
