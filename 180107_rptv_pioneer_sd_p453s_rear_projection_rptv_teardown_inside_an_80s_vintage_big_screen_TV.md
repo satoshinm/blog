@@ -290,3 +290,6 @@ Bend away the metal shields, and parts can be desoldered from the boards. Nothin
 
 [Memories of Analog TV: The 90s and 00s](https://www.sandiegoreader.com/weblogs/san-diego-radio-views/2009/apr/22/memories-of-analog-tv-the-90s-and-00s/#) provides some insight into the old analog era. Nowadays, it is largely superseded by [digital televison](https://en.wikipedia.org/wiki/Digital_television), analog services turned off as part of the [digital television transition](https://en.wikipedia.org/wiki/Digital_television_transition). Receiving modern television on this big screen  would have required a [digital television adapter](https://en.wikipedia.org/wiki/Digital_television_adapter). Better to buy a new TV.
 
+---
+
+**[Comments?](https://www.reddit.com/r/VintageElectronics/comments/7ov9c1/pioneer_sdp453s_rearprojection_rptv_teardown)**
