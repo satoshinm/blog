@@ -1,4 +1,4 @@
-# Pioneer SD-P453S Rear-Projection (RPTV) teardown, an 80s vintage big screen TV 
+# Pioneer SD-P453S Rear-Projection (RPTV) teardown: inside an 80s vintage big screen TV
 
 by snm, January 7th, 2018
 
