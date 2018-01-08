@@ -2,6 +2,9 @@
 
 by snm, January 7th, 2018
 
+* auto-gen TOC:
+{:toc}
+
 The computer game [Minecraft](https://en.wikipedia.org/wiki/Minecraft) has been wildly successful, especially as a platform for modders, partly because modifying it allows you to create new mechanisms, phenomena, and behavior in a *virtual* world, expressing creativity unconstrained by physical limitations of engineering in the real world, as you are with [Arduino](https://en.wikipedia.org/wiki/Arduino) or other hardware platforms interfacing with the tangible. But what if we could bridge the two, the virtual and the physical?
 
 One of the earliest pioneers in this field, as far as I could find, were experimenting with this idea back in 2014. For example syntagmata posted this to /r/minecraft on October 3rd, 2013: [App syncs Philips Hue light bulbs to Minecraft](https://www.reddit.com/r/Minecraft/comments/1nnijo/app_syncs_philips_hue_light_bulbs_to_minecraft/). The vine link video is now dead, but it was a demonstration of synchronizing the [Philips Hue](https://en.wikipedia.org/wiki/Philips_Hue) smart light bulbs in the real world to the virtual world of Minecraft. You could imagine the lighting of your surroundings around your computer changing for a more immersive experience in the game world.
