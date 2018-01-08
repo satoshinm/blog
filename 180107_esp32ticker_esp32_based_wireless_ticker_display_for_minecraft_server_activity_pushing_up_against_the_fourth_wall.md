@@ -27,6 +27,40 @@ Making some modern changes to the Wikipedia diagram:
 
 So what can we do to achieve this? There are a lot of possible ideas (usually revolving around lighting and switches), but as a start, let's try something simple.
 
+## ESP32
+
+Ordered the ESP32 from here: [WEMOS LOLIN32 Lite V1.0.0 - wifi & bluetooth board based ESP-32 esp32 Rev1 MicroPython 4MB FLASH](https://www.aliexpress.com/item/WEMOS-LOLIN32-Lite-V1-0-0-wifi-bluetooth-board-based-ESP-32-esp32-Rev1-MicroPython-4MB/32831394824.html). This is a versatile device, includes wireless and miscellaneous peripherals, for any interfacing application.
+
+Comes in an antistatic package with board and headers:
+
+![ESP32 baggy](https://user-images.githubusercontent.com/26856618/33530015-f13eb85a-d82d-11e7-902e-2c76058efd71.png)
+
+![ESP32 headers](https://user-images.githubusercontent.com/26856618/33530024-0da08848-d82e-11e7-8826-19007164aff4.png)
+
+Insert the headers and solder them on:
+
+![ESP32 reverse](https://user-images.githubusercontent.com/26856618/33530028-1dff3022-d82e-11e7-9476-c1a84e1976a4.png)
+
+![ESP32 soldered](https://user-images.githubusercontent.com/26856618/33530032-28bfebb4-d82e-11e7-9df7-9ddc5dfcee74.png)
+
+Connect to a PC using a micro USB cable. With the proper drivers installed, it shows up as a USB-to-serial port, on my system /dev/tty.wchusbserial1420. Although the hardware is different than the LOLIN32 I have, Sparkfun's guide [ESP32 Thing Hookup Guide](https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide) is helpful. To use with Arduino, install [arduino-esp32](https://github.com/espressif/arduino-esp32/). The ESP32 boards now show up in Arduino > Tools > Boards > WEMOS LOLIN32. Loaded up an example under File > Examples > WiFi > SimpleWiFiServer, attempted to upload to the ESP32 but it failed:
+
+> fork/exec Arduino/hardware/espressif/esp32/tools/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++: no such file or directory
+Error compiling for board WEMOS LOLIN32.
+
+Turns out you need to install the Xtensa version of GCC, by running tools/get.py (as explained on Sparkfun's guide). After I did this, and modified the code to connect to my Wi-Fi, the code built and uploaded successfully, and I could access the ESP32 web server on my network. But, the links didn't toggle the onboard LED:
+
+> Click here to turn the LED on pin 5 on.
+> Click here to turn the LED on pin 5 off.
+
+Why did the example choose pin 5? On the LOLIN32, there is an LED connected to the board pin labeled "22/LED". Changed to pin 22, and then to `BUILTIN_LED`, no difference.
+
+Confirmed the LED is good, tested in diode mode on a multimeter, it lights up bright blue:
+
+![Onboard LED driven by multimeter](https://user-images.githubusercontent.com/26856618/33530038-36fdf504-d82e-11e7-87a3-cc04fdadf35d.png)
+
+Voltage on the negative side of the LED is 3.3 V, but the positive side, connected to 22/LED, is 1.091 V. Why isn't the example lightening it up? At least the device as a whole works, can access its web server over HTTP. Could always add an external LED if this one is busted. But the LED is not actually needed, since I have an OLED display to use:
+
 ## Ticker
 
 ![ESP32 Ticker - has left the game](https://user-images.githubusercontent.com/26856618/34658467-2ed399de-f3e4-11e7-8ed5-ecfd8e7719f3.png)
