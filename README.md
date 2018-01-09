@@ -1,5 +1,6 @@
 # blog
 
+* [2017/01/08 USB breakout boards for supplying power to your projects](180108_usb_power_usb_breakout_boards_for_supplying_power_to_your_projects.html)
 * [2017/01/07 ESP32-based wireless ticker display for Minecraft server activity: pushing up against the fourth wall](180107_esp32ticker_esp32_based_wireless_ticker_display_for_minecraft_server_activity_pushing_up_against_the_fourth_wall.html)
 * [2018/01/07 Pioneer SD-P453S Rear-Projection (RPTV) teardown: inside an 80s vintage big screen TV](180107_rptv_pioneer_sd_p453s_rear_projection_rptv_teardown_inside_an_80s_vintage_big_screen_TV.html)
 * [2018/01/06 Constructing and experimenting with the STM32-O-Scope](180106_stm32scope2_constructing_and_experimenting_with_the_stm32_o_scope.html)
