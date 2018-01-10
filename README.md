@@ -1,5 +1,6 @@
 # blog
 
+* [2017/01/09 AT&T 1739 Digital Answering Machine teardown and resuscitation attempt](att_ansmachine_att_1739_digital_answering_machine_teardown_and_resuscitation_attempt.html)
 * [2017/01/08 USB breakout boards for supplying power to your projects](180108_usb_power_usb_breakout_boards_for_supplying_power_to_your_projects.html)
 * [2017/01/07 ESP32-based wireless ticker display for Minecraft server activity: pushing up against the fourth wall](180107_esp32ticker_esp32_based_wireless_ticker_display_for_minecraft_server_activity_pushing_up_against_the_fourth_wall.html)
 * [2018/01/07 Pioneer SD-P453S Rear-Projection (RPTV) teardown: inside an 80s vintage big screen TV](180107_rptv_pioneer_sd_p453s_rear_projection_rptv_teardown_inside_an_80s_vintage_big_screen_TV.html)
