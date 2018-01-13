@@ -1,5 +1,6 @@
 # blog
 
+* [2018/01/13 pill_6502: 8-bit 6502 CPU and 6850 ACIA emulation on the STM32 blue pill to run Microsoft BASIC from 1977](180113_stm32_6502_pill_6502_8_bit_6502_cpu_and_6850_acia_emulation_on_the_stm32_blue_pill_to_run_microsoft_basic_from_1977.html)
 * [2018/01/12 Sanyo LM3364K dynamic RAM (DRAM) pinout decoding](180112_dram_lm3364k_sanyo_lm3364k_dynamic_ram_dram_pinout_decoding.html)
 * [2018/01/09 AT&T 1739 Digital Answering Machine teardown and resuscitation attempt](180109_att_ansmachine_att_1739_digital_answering_machine_teardown_and_resuscitation_attempt.html)
 * [2018/01/08 USB breakout boards for supplying power to your projects](180108_usb_power_usb_breakout_boards_for_supplying_power_to_your_projects.html)
