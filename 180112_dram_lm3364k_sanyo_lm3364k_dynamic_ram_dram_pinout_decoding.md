@@ -1,5 +1,7 @@
 # Sanyo LM3364K dynamic RAM (DRAM) pinout decoding
 
+by snm, January 12th, 2018
+
 In *[Pioneer SD-P453S Rear-Projection (RPTV) teardown: inside an 80s vintage big screen TV](https://satoshinm.github.io/blog/180107_rptv_pioneer_sd_p453s_rear_projection_rptv_teardown_inside_an_80s_vintage_big_screen_TV.html)* we encountered an audio board ANPI309-B which had a memory chip, the Sanyo LM3364K-15 64KB DRAM. What is this chip and how can it be used?
 
 [Dynamic RAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) requires a refresh to maintain the bits. I can tell the LM3364K is a 64KB DRAM from eBay sellers, but was unable to locate any data sheet. So we'll need to ascertain the pinout ourselves.
