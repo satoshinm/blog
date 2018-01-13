@@ -4,9 +4,7 @@ by snm, January 13th, 2018
 
 ![pill_6502 running Microsoft BASIC](https://user-images.githubusercontent.com/26856618/34910886-d1869f5e-f872-11e7-8dd9-e034348619dd.png)
 
-This post describes emulating an 8-bit 6502 processor and communications interface to allow running 1977 Microsoft BASIC on the STM32F103 blue pill ARM microcontroller board. Read on for excruciating detail about what I tried, but if you want to just see the source code and firmware to run it yourself, skip to the pill_6502 GitHub repository at: 
-
-* **[https://github.com/satoshinm/pill_6502](https://github.com/satoshinm/pill_6502)**
+This post describes emulating an 8-bit 6502 processor and communications interface to allow running 1977 Microsoft BASIC on the STM32F103 blue pill ARM microcontroller board. Read on for excruciating detail about what I tried, but if you want to just see the source code and firmware to run it yourself, skip to the pill_6502 GitHub repository at: **[https://github.com/satoshinm/pill_6502](https://github.com/satoshinm/pill_6502)**
 
 * auto-gen TOC:
 {:toc}
