@@ -1,6 +1,6 @@
 # Youyue 858D hot air gun first look
 
-by snm, January 13th, 2018
+by snm, January 14th, 2018
 
 * auto-gen TOC:
 {:toc}
