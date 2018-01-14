@@ -6,11 +6,10 @@ by snm, January 13th, 2018
 
 This post describes emulating an 8-bit 6502 processor and communications interface to allow running 1977 Microsoft BASIC on the STM32F103 blue pill ARM microcontroller board. Read on for excruciating detail about what I tried, but if you want to just see the source code and firmware to run it yourself, skip to the pill_6502 GitHub repository at: **[https://github.com/satoshinm/pill_6502](https://github.com/satoshinm/pill_6502)**
 
-* auto-gen TOC:
-{:toc}
-
 ---
 
+* auto-gen TOC:
+{:toc}
 
 Inspired by [EEVblog Guest Video: Raising Awesome - Young Dave Jones](https://www.youtube.com/watch?v=vr8ROiYs8AQ), a demonstration of building a Simple6502 computer, a minimal [MOS Technologies 6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) computer using Grant Searle's design: [Grant's 8-chip (or 7-chip) 6502 computer](http://searle.hostei.com/grant/6502/Simple6502.html), I became interested in building a 6502 computer system. Grant also has minimal [Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80) and [Motorola 6809](https://en.wikipedia.org/wiki/Motorola_6809) designs, also from the 8-bit era. But the 6502 was famously used in the [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) and pioneering personal computers of the time. Building a 6502-based computer in the current year is an exercise in [retrocomputing](https://en.wikipedia.org/wiki/Retrocomputing).
 
