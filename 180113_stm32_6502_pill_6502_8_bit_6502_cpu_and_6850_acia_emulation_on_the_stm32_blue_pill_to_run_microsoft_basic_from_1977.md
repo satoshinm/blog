@@ -770,3 +770,7 @@ And comparing the pinouts of the [STM32F103 blue pill](http://wiki.stm32duino.co
 ![6502 vs blue pill pinout](https://user-images.githubusercontent.com/26856618/34910807-7ae880fa-f871-11e7-996c-24e31a616b10.png)
 
 If you want to make your own, or help contribute, check out the pill_6502 source code and binaries at: [https://github.com/satoshinm/pill_6502](https://github.com/satoshinm/pill_6502)
+
+---
+
+**[Comments?](https://www.reddit.com/r/stm32f103/comments/7q8c7k/pill_6502_8bit_6502_cpu_and_6850_acia_emulation/?st=jce0xqyz&sh=a23fed74)**
