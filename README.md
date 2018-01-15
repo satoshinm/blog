@@ -1,5 +1,6 @@
 # blog
 
+* [2018/01/15 USB connector replacement on STM32 blue pill development board](180115_stm32usbconn_usb_connector_replacement_on_stm32_blue_pill_development_board.html)
 * [2018/01/14 Capacitive discharge welder with 350 farad supercapacitor](180114_weld_capacitive_discharge_welder_with_350_farad_supercapacitor.html)
 * [2018/01/14 Youyue 858D hot air gun first look](180114_hotair_youyue_858d_hot_air_gun_first_look.html)
 * [2018/01/13 pill_6502: 8-bit 6502 CPU and 6850 ACIA emulation on the STM32 blue pill to run Microsoft BASIC from 1977](180113_stm32_6502_pill_6502_8_bit_6502_cpu_and_6850_acia_emulation_on_the_stm32_blue_pill_to_run_microsoft_basic_from_1977.html)
