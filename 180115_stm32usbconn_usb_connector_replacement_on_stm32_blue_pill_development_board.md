@@ -24,7 +24,7 @@ but I'm hoping it is compatible enough with the printed circuit board connector 
 
 There are some clear problems. The ground tabs on the side stick in between the two large pads. The ground tabs on the back stick out too far to the bottom. Bent them up and away, and also the side tabs upwards, to help allow the smaller pins to make a better connection to the board. First attempt:
 
-![Fail 1](https://user-images.githubusercontent.com/26856618/34962599-2dd34faa-f9f9-11e7-8117-aa87781f84ea.png0
+![Fail 1](https://user-images.githubusercontent.com/26856618/34962599-2dd34faa-f9f9-11e7-8117-aa87781f84ea.png)
 
 Plug it into a computer and...nothing. The power LED doesn't light up. Bad connection. Trial and error:
 
