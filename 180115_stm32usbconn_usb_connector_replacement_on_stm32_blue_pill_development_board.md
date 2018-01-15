@@ -41,3 +41,7 @@ While I was at it, soldered the bad port to the USB breakout board, just because
 So how well does this new port work? Tested by flashing the firmware in *[pill_6502: 8-bit 6502 CPU and 6850 ACIA emulation on the STM32 blue pill to run Microsoft BASIC from 1977](https://satoshinm.github.io/blog/180113_stm32_6502_pill_6502_8_bit_6502_cpu_and_6850_acia_emulation_on_the_stm32_blue_pill_to_run_microsoft_basic_from_1977.html)* then connecting over and powering from USB, and it worked perfectly. However, one still ought to be careful in unplugging from this fragile micro-USB port too frequently, I think I'm going to unplug from the USB-A side on the host computer instead when I can.
 
 Also, if you want to do this replacement yourself, I wouldn't recommend buying this particular USB connector, since it isn't the exact same footprint. Buy the same connector as a replacement if you can find it. But as for me, this is what I had and it worked at least well enough for my purposes. 
+
+---
+
+**[Comments?](https://www.reddit.com/r/stm32f103/comments/7qn858/usb_connector_replacement_on_stm32_blue_pill)**
