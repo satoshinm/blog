@@ -1,4 +1,4 @@
-# Triple USB-to-serial adapter using STM32 blue pill
+# Triple USB-to-serial adapter using STM32 blue pill (pill\_serial)
 
 by snm, December 23rd, 2017
 
