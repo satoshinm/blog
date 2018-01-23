@@ -151,6 +151,7 @@ After trying the first print, there are some clear areas of improvement that can
   <tr>
     <th>Actual print time</th>
     <td>2:12 (0:42 + 1:30), 1 minute slower (1%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>3.90m (1.14m + 2.76m)</td>
@@ -225,6 +226,7 @@ I like it, now the tools are tucked away yet readily available on the printer wh
   <tr>
     <th>Actual print time</th>
     <td>1:15, 10 minutes slower (15%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>2.01m</td>
@@ -290,6 +292,7 @@ This gives me an idea, could also print knobs for potentiometers or variable aut
   <tr>
     <th>Actual print time</th>
     <td>0:53, 8 minutes slower (18%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>0.77m</td>
@@ -350,6 +353,7 @@ Powered on, preheated and homed, the fan turned on and did *not* rub against the
   <tr>
     <th>Actual print time</th>
     <td>0:58, 5 minutes slower (9%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>1.84m</td>
@@ -392,6 +396,7 @@ Stashed it away as a replacement. Who knows, maybe I'll desparately need it some
   <tr>
     <th>Actual print time</th>
     <td>0:40, 8 minutes slower (25%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>1.16m</td>
@@ -461,6 +466,7 @@ There is another design: [Monoprice Select Mini Good Spec Spool Holder (larger C
   <tr>
     <th>Actual print time</th>
     <td>2:23, 15 minutes slower (12%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>4.56m</td>
@@ -521,6 +527,7 @@ Now that the printer is modded and optimized, we can turn to practical prints fo
   <tr>
     <th>Actual print time</th>
     <td>10:50, 38 minutes slower (6%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>25.59m</td>
@@ -572,6 +579,7 @@ but I used a glass measuring cup to measure the water, due to concerns about wat
   <tr>
     <th>Actual print time</th>
     <td>2:21, 13 minutes slower (10%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>4.41m</td>
@@ -624,6 +632,7 @@ A neat set of towel hooks, soap dish, toilet paper holder, and toothbrush holder
   <tr>
     <th>Actual print time</th>
     <td>3:17, 21 minutes slower (12%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>6.50m</td>
@@ -676,6 +685,7 @@ Nifty!
   <tr>
     <th>Actual print time</th>
     <td>3:58, 21 minutes slower (10%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>8.60m</td>
@@ -716,6 +726,7 @@ A wider base so it doesn't fall over as easily would be nice, but it works:
   <tr>
     <th>Actual print time</th>
     <td>6:34 (5:59 + 0:35), 24 minutes slower (6%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>16.11m (14.35m + 1.76m)</td>
@@ -784,6 +795,7 @@ How about in practice, in reality? As John Salvatier acutely pointed out, [Reali
   <tr>
     <th>Actual print time</th>
     <td>2:10, 16 minutes slower (14%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>3.92m</td>
@@ -934,6 +946,7 @@ This elegant construction replaces the mess of wires on a breadboarded blue pill
   <tr>
     <th>Actual print time</th>
     <td>3:26, 23 minutes slower (13%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>6.37m</td>
@@ -976,6 +989,7 @@ The spool doesn't roll too smoothly, I think I'd prefer a round spindle instead 
   <tr>
     <th>Actual print time</th>
     <td>2:26, 15 minutes slower (11%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>7.59m</td>
@@ -1022,6 +1036,7 @@ The fingers grip the wires well. Used it conjunction with the solder spool made 
   <tr>
     <th>Actual print time</th>
     <td>10:04, 47 minutes slower (8%)</td>
+  </tr>
   <tr>
     <th>Estimated filament length</th>
     <td>23.38m</td>
@@ -1102,10 +1117,10 @@ Screwdrivers, tweezers, pliers, side cutters, marker, brush, wire strippers. Mea
   </tr>
 </table>
 
-Got the printer late in the week, set it up, then started printing almost non-stop from Friday throughout the weekend. Estimating 3 days = 72 hours, this means the printer was in use almost 75% of the time, since my total print lengths summed to 53 hours, 27 minutes. Strictly more than the 48 hours composing the weekend but I think we all can agree this was a productive few days. More than half of the 500g filament spool was used, summing to 339g not including failed or test prints.
+Got the printer late in the week, set it up, then started printing nearly non-stop from Friday throughout the weekend, until publishing this blog post on Monday. Estimating 3 days = 72 hours, this means the printer was in use almost 75% of the time, since my total print lengths summed to 53 hours, 27 minutes. Strictly more than the 48 hours composing the weekend but I think we all can agree this was a productive few days. More than half of the 500g filament spool was used, summing to 339g not including failed or test prints.
 
 All in all I [made](https://www.thingiverse.com/satoshinm/makes) 15 useful objects. Not bad for my first experience with 3D printing, I'd say. Overall I'm very satisified with the Monoprice Select Mini v2 and agree with the chorus of opinions on various forums it is an excellent beginner starter 3D printer. About the only limitation I occasionally ran into was its limited print bed size (although there are [MPSelectMini wiki: Mods & Improvements](https://www.mpselectmini.com/mods) that can be made to expand the bed size, and also these more advanced mods which I didn't try: [Let's Print 3D: Essential Mods to Upgrade Your 3D Printer (Maker Select v2)](https://letsprint3d.net/2017/07/14/essential-mods-upgrade-3d-printer/), so I couldn't print everything I wanted, but this problem rarely came up. Most useful objects you can print fit within the limited 120 mm dimensions.
 
 The AIOWHITE filament was also superb, although pricey. I may try other midrange brands once/if I run out of this spool. By my estimates I have only 161g remaining, but I haven't actually weighed the spool before and after to get an accurate measurement (note to self: next time, weigh immediately). The estimates from the Cura slicing program were consistently lower than the actual print times, from 1 minute to 47 minutes depending on the total length, or from 1% to 25% (both very short prints), an arithmetic average underestimate of 11.3%. Keep this in mind when scheduling print jobs in the future. Real-time print length estimation and scheduling would be nice, alas, the Monoprice Select Mini v2 only shows you the actual print time when it completes, and only has an unlabeled progress bar during printing.
 
-Long story short, the MP Select Mini v2 provided a perfect introduction to 3D printing. There are lower-end and higher-end printers but I'll probably stay with the MPSM for a while, until I outgrow it. Even with this limited machine, thanks to the vast universe of models designed and published by modelers from around the world on [Thingiverse](https://www.thingiverse.com) and elsewhere, tons of everyday useful items (and specialized niche items) can be readily available at your fingertips, manufactured conveniently at your home. And I haven't even scratched the surface of the true power of 3D printing: designing our own custom models.
+Long story short, the MP Select Mini v2 provided a perfect introduction to 3D printing. There are lower-end and higher-end printers but I'll probably stay with the MPSM for a while, until I outgrow it. Even with this limited machine, thanks to the vast universe of models designed and published by modelers from around the world on [Thingiverse](https://www.thingiverse.com) and elsewhere, tons of everyday useful items (and specialized niche items) can be readily available at your fingertips, manufactured conveniently at your home. And I haven't even scratched the surface of the true power of 3D printing: designing your own custom models.
