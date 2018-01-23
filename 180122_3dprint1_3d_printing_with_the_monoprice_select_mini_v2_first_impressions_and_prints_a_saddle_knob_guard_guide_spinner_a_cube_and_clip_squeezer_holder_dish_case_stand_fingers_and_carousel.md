@@ -1090,27 +1090,28 @@ Screwdrivers, tweezers, pliers, side cutters, marker, brush, wire strippers. Mea
     <th>Total models printed (15)</th>
     <td>
       <ul>
-        <li>     <a href="https://www.thingiverse.com/thing:1817172">Tool Saddle for MP Select Mini</a> by ArmArakel, published Oct 10, 2016
-<li>     <a href="https://www.thingiverse.com/thing:2245341">MPSM Spinner Knob</a> by VA3TNE, published Apr 12, 2017
-<li>     <a href="https://www.thingiverse.com/thing:1736041">30mm Minimal Fan Guard: MP Select Mini</a> by numanair, published Aug 25, 2016
-<li>     <a href="https://www.thingiverse.com/thing:1812623">MP Select Mini Bolt-able Extruder Lever Arm</a> by ripcurl777, published Oct 7, 2016
-<li>     <a href="https://www.thingiverse.com/thing:2520971">Monoprice Select Mini Filament Guide with extra support</a> by ekopapers, published Sep 6, 2017
-<li>     <a href="https://www.thingiverse.com/thing:2299324">Gyro Spinner For MPSM (keyless)</a> by TrunkFullaAmps, published May 7, 2017
-<li>     <a href="https://www.thingiverse.com/thing:2676324">Measuring Cube</a> by iomaa, published Dec 1, 2017
-<li>     <a href="https://www.thingiverse.com/thing:1212828">Chip Bag Clip V7</a> by srwilson58, published Dec 19, 2015
-<li>     <a href="https://www.thingiverse.com/thing:1147252">Toothpaste Tube Squeezer</a> by ottenjr, published Nov 21, 2015
-<li>     <a href="https://www.thingiverse.com/thing:1340542">toothbrush Holder</a> by theTeV, published Feb 13, 2016
-<li>     <a href="https://www.thingiverse.com/thing:808786">Corner Soap Dish</a> by hammerbot, published May 5, 2015
-<li>     <a href="https://www.thingiverse.com/thing:2513993">STM32 blue pill case (blackmagic programmer)</a> by thmjpr, published Sep 2, 2017
-<li>     <a href="https://www.thingiverse.com/thing:563949">Solder Spool Stand Improved</a> by AndrewBCN, published Nov 25, 2014 
-<li>     <a href="https://www.thingiverse.com/thing:1725308">Soldering Fingers</a> by mistertech, published Aug 19, 2016 
-<li>     <a href="https://www.thingiverse.com/thing:702912">Tool Carousel for small tools</a> by mbeyerle116, published Feb 28, 2015
+<li>     <a href="https://www.thingiverse.com/thing:1817172">Tool Saddle for MP Select Mini</a> by ArmArakel, published Oct 10, 2016</li>
+<li>     <a href="https://www.thingiverse.com/thing:2245341">MPSM Spinner Knob</a> by VA3TNE, published Apr 12, 2017</li>
+<li>     <a href="https://www.thingiverse.com/thing:1736041">30mm Minimal Fan Guard: MP Select Mini</a> by numanair, published Aug 25, 2016</li>
+<li>     <a href="https://www.thingiverse.com/thing:1812623">MP Select Mini Bolt-able Extruder Lever Arm</a> by ripcurl777, published Oct 7, 2016</li>
+<li>     <a href="https://www.thingiverse.com/thing:2520971">Monoprice Select Mini Filament Guide with extra support</a> by ekopapers, published Sep 6, 2017</li>
+<li>     <a href="https://www.thingiverse.com/thing:2299324">Gyro Spinner For MPSM (keyless)</a> by TrunkFullaAmps, published May 7, 2017</li>
+<li>     <a href="https://www.thingiverse.com/thing:2676324">Measuring Cube</a> by iomaa, published Dec 1, 2017</li>
+<li>     <a href="https://www.thingiverse.com/thing:1212828">Chip Bag Clip V7</a> by srwilson58, published Dec 19, 2015</li>
+<li>     <a href="https://www.thingiverse.com/thing:1147252">Toothpaste Tube Squeezer</a> by ottenjr, published Nov 21, 2015</li>
+<li>     <a href="https://www.thingiverse.com/thing:1340542">toothbrush Holder</a> by theTeV, published Feb 13, 2016</li>
+<li>     <a href="https://www.thingiverse.com/thing:808786">Corner Soap Dish</a> by hammerbot, published May 5, 2015</li>
+<li>     <a href="https://www.thingiverse.com/thing:2513993">STM32 blue pill case (blackmagic programmer)</a> by thmjpr, published Sep 2, 2017</li>
+<li>     <a href="https://www.thingiverse.com/thing:563949">Solder Spool Stand Improved</a> by AndrewBCN, published Nov 25, 2014 </li>
+<li>     <a href="https://www.thingiverse.com/thing:1725308">Soldering Fingers</a> by mistertech, published Aug 19, 2016 </li>
+<li>     <a href="https://www.thingiverse.com/thing:702912">Tool Carousel for small tools</a> by mbeyerle116, published Feb 28, 2015</li>
       </ul>
     </td>
   </tr>
   <tr>
     <th>Total actual print time</th>
     <td>53:27, about 74% utilization over 72:00</td>
+  </tr>
   <tr>
     <th>Total estimated filament mass</th>
     <td>339g, about 68% of the 500g roll</td>
