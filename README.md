@@ -1,5 +1,6 @@
 # blog
 
+* [2018/01/22 3D printing with the Monoprice Select Mini v2: first impressions and prints: a saddle, knob, guard, guide, spinner; a cube and clip; squeezer, holder, dish; case, stand, fingers, and carousel](180122_3dprint1_3d_printing_with_the_monoprice_select_mini_v2_first_impressions_and_prints_a_saddle_knob_guard_guide_spinner_a_cube_and_clip_squeezer_holder_dish_case_stand_fingers_and_carousel.html)
 * [2018/01/15 USB connector replacement on STM32 blue pill development board](180115_stm32usbconn_usb_connector_replacement_on_stm32_blue_pill_development_board.html)
 * [2018/01/14 Capacitive discharge welder with 350 farad supercapacitor](180114_weld_capacitive_discharge_welder_with_350_farad_supercapacitor.html)
 * [2018/01/14 Youyue 858D hot air gun first look](180114_hotair_youyue_858d_hot_air_gun_first_look.html)
