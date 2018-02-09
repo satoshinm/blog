@@ -322,7 +322,7 @@ Removing the right-angle adapter and leaving only the filament guide, repeating 
 
 Leaving off this right-angle adapter for now. It may be simply not compatible with the filament guide, but I've had good success with the filament guide alone so I'm leaving it on for the time being. 
 
-## Shower curtain rings
+### Shower curtain rings
 
 <table>
   <tr>
@@ -406,7 +406,7 @@ I'm getting a lot of use out of this 3D printer, but it was at this point the pr
 
 ![Bed warping after shower hooks](https://user-images.githubusercontent.com/26856618/36011128-36128c34-0d0a-11e8-8826-2eb5995e3f46.png)
 
-## Prototype case 5x7cm
+### Prototype case 5x7cm
 
 <table>
   <tr>
