@@ -19,7 +19,7 @@ The STM32F4 seems to be one of the most popular, it even has its own subreddit [
 
 > The STM32 F1-series was the first group of STM32 microcontrollers based on the ARM Cortex-M3 core and considered their mainstream ARM microcontrollers. The F1-series has evolved over time by increasing CPU speed, size of internal memory, variety of peripherals. There are five F1 lines: Connectivity (STM32F105/107), **Performance (STM32F103)**, USB Access (STM32F102), Access (STM32F101), Value (STM32F100). 
 
-Cool. This is a 72 MHz processor. The full part number STM32F103C8T6 [decodes](http://www.st.com/en/microcontrollers/stm32f103.html?querycriteria=productId=LN1565) to C8 = 128 KB flash, 20 KB RAM, 48-pin LQFP:
+Cool. This is a 72 MHz processor. The full part number STM32F103C8T6 [decodes](http://www.st.com/en/microcontrollers/stm32f103.html?querycriteria=productId=LN1565) to C8 = 64 KB flash, 20 KB RAM, 48-pin LQFP:
 
 ![STM32F103 variants](http://www.st.com/content/ccc/fragment/product_related/line_information/line_level_diagram/a2/a6/01/cb/17/48/47/77/STM32F103_line_LN1565.jpg/files/STM32F103_line_LN1565.jpg/_jcr_content/translations/en.STM32F103_line_LN1565.jpg)
 
