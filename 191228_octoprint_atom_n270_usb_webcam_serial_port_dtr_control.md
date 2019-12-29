@@ -408,7 +408,7 @@ I searched for [power](https://plugins.octoprint.org/search/?q=power) plugins, a
 | [OctoPrint-PSUControl](https://plugins.octoprint.org/plugins/psucontrol/) | >=2.7,<3 |
 | [OctoPrint-OrviboS20](https://plugins.octoprint.org/plugins/orvibos20/) | >=2.7,<3 |
 | [OctoPrint-Tasmota](https://plugins.octoprint.org/plugins/tasmota/) | >=2.7,<4 |
-| [OctoPrint-TPLinkSmartplug](https://plugins.octoprint.org/plugins/tplinksmartplug/) | Python: >=2.7,<4 |
+| [OctoPrint-TPLinkSmartplug](https://plugins.octoprint.org/plugins/tplinksmartplug/) | >=2.7,<4 |
 | [OctoPrint-TuyaSmartplug](https://plugins.octoprint.org/plugins/tuyasmartplug/) | >=2.7,<3 |
 | [OctoPrint-WemoSwitch](https://plugins.octoprint.org/plugins/wemoswitch/) | >=2.7,<4 |
 
