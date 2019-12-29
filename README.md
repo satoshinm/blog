@@ -1,5 +1,6 @@
 # blog
 
+* [2019/12/28 OctoPrint on an Atom N270 with a USB Webcam and Serial Port DTR Control](191228_octoprint_atom_n270_usb_webcam_serial_port_dtr_control.html)
 * [2019/12/07 Glass bed and heater rewire mods to Monoprice Select Mini v2 3D printer](191207_glass_bed_and_heater_rewire_mpsm.html)
 * [2018/02/24 XL6019 boost/buck DC-DC converter unboxing](180224_xl6019dcdc_xl6019_boost_buck_dc_dc_converter_unboxing.html)
 * [2018/02/08 3D Printing with 3D MARS white PLA: pass-through wallplate, paper towel holder, right-angle spool holder, shower curtain rings, and a prototype case](180208_3dprint2_3d_printing_with_3d_mars_white_pla_pass_through_wallplate_paper_towel_holder_right_angle_spool_holder_shower_curtain_rings_and_a_prototype_case.html)
