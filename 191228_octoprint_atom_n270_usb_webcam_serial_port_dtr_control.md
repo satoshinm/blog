@@ -713,4 +713,6 @@ With everything said and done, the OctoPrint GUI now shows the complete view of 
 
 ![OctoPrint with webcam mounted](https://user-images.githubusercontent.com/26856618/71551049-432cbe00-29d5-11ea-850c-21a0b62050f9.png)
 
+---
 
+**[Comments?](https://old.reddit.com/r/octoprint/comments/egzv02/detailed_writeup_of_my_octoprint_setup_for_a/?st=k4qdabf6&sh=bb91e381)**
